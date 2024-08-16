@@ -29,3 +29,6 @@ This project is a console-based CRUD application designed to manage movie rental
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](./LICENSE) file for details.
+
+### Note
+This project is old. It was written in 2021, and it is here only for showcase purposes. Check out my more recent projects!
